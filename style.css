@@ -66,3 +66,9 @@ p {
 #middle {
   margin-top: 3rem;
 }
+footer {
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
